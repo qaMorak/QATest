@@ -1,0 +1,5 @@
+1. Buka https://www.saucedemo.com/ dan buat skenario normal case di excel 
+2. Setelah skenario selesai dibuat, create script e2e automation berdasarkan skenario diatas
+3. jika ada bug / error ketika melakukan testing, buat bug reportnya dan script automation test
+4. Videokan/recording runningnya automation yang ada di browser desktop kamu.
+5. Kirimkan hasil video automation test nya ke email ini dan kirimkan link source code dengan github
